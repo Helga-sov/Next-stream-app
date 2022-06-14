@@ -1,27 +1,36 @@
-# 📺 NEXT Stream App - Video Games Streaming Platform 
+# 📺 NEXT Stream App 🎞 - Video Games Streaming Platform 
 
-![stream-app-1](https://user-images.githubusercontent.com/60555164/173615996-f93eade3-54ab-4b09-92e7-a79e7cf6e4bd.PNG)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+![stream-app-2](https://user-images.githubusercontent.com/60555164/173631257-73028e83-93e8-4b29-b792-e19727a05278.PNG)
 
 ## App Features:
 
 - ✅ Log-in with Google authentication
-- 🖌 Create, edit and delete streams
+- 🖌 Each user has admin rights to his own streams and videos like creating, editing and deleting streams
 - 🚀 Run streams using OBS (Open Broadcaster Software)
-- ❗ User can have access only to his own created streams
 
 ![stream-app-3](https://user-images.githubusercontent.com/60555164/173631238-0b7d83b7-3fe2-4e40-9009-70a488331c25.PNG)
-![stream-app-2](https://user-images.githubusercontent.com/60555164/173631257-73028e83-93e8-4b29-b792-e19727a05278.PNG)
 
 
 ## App Components:
 
-#### Web API Server
+#### 1. Web API Server
 [json-server](https://www.npmjs.com/package/json-server)
  
-#### RTMP Server
+#### 2. RTMP Server
 [node-media-server](https://github.com/illuspas/Node-Media-Server)
 
-#### React App
+#### 3. React App
 - react-js
 - Google Authentication
 - redux, react-router-dom, react-form, react-final-form
@@ -31,12 +40,12 @@
 
 ## Built with:
 
-React
-Redux
-React Forms
-OBS 
-Flv.js
-React Redux Router
+- [x] React
+- [x] Redux
+- [x] React Forms
+- [x] React Redux Router
+- [x] Flv.js
+- [x] OBS
 
 ## Next Stream Installation
 
@@ -46,13 +55,13 @@ React Redux Router
 git clone https://github.com/Helga-sov/Next-stream-app.git
 ```
 
-2. Instal packages in each of the folders (api, client and rtmpserver)
+2. Install packages for each of the folders (api, client and rtmpserver)
 
 ```
 npm install
 ```
 
-3. Run the app in the following order: api, rtmpserver and client)
+3. Run this command in all the folders in the following order: api, rtmpserver and client
 
 ```
 npm start
