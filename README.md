@@ -8,7 +8,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-# 📺 NEXT Stream App - Video Games Streaming Platform 
+# 📺 NEXT LOGIC Stream App - Video Games Streaming Platform 
 
 ![stream-app-2](https://user-images.githubusercontent.com/60555164/173631257-73028e83-93e8-4b29-b792-e19727a05278.PNG)
 
@@ -17,8 +17,14 @@
 - ✅ Log-in with Google authentication
 - 🖌 Each user has admin rights to his own streams and videos like creating, editing and deleting streams
 - 🚀 Run streams using OBS (Open Broadcaster Software)
+- 📱💻🖥 Fully responsive Web App
 
 ![stream-app-3](https://user-images.githubusercontent.com/60555164/173631238-0b7d83b7-3fe2-4e40-9009-70a488331c25.PNG)
+
+![ezgif-2-77e363a9c3](https://user-images.githubusercontent.com/60555164/173691019-046bc4ee-ca66-45cb-808a-f16573bc4658.gif)
+![React_App_-_Google_Chrome_2022-06-14_23-07-37_AdobeExpress](https://user-images.githubusercontent.com/60555164/173690214-8c8e7225-1e85-4dc3-8552-56f97f966c26.gif)
+![ezgif-2-83e930cc87](https://user-images.githubusercontent.com/60555164/173691001-dc775e38-18b8-4728-835a-b32d595dfcce.gif)
+
 
 
 ## App Components:
@@ -31,11 +37,11 @@
 
 #### 3. React App
 - react-js
-- Google Authentication
+- Google API - Authentication
 - redux, react-router-dom, react-form, react-final-form
 - axios, lodash, redux-thunk
 - flv.js
-- Semantics UI, CSS
+- Semantic UI, CSS
 
 ## Built with:
 
@@ -65,7 +71,3 @@ npm install
 ```
 npm start
 ```
-
-https://forthebadge.com/images/badges/built-with-love.svg
-
-https://forthebadge.com/images/badges/uses-html.svg
