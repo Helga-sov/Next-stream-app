@@ -9,21 +9,25 @@
 - 🚀 Run streams using OBS (Open Broadcaster Software)
 - ❗ User can have access only to his own created streams
 
+![stream-app-3](https://user-images.githubusercontent.com/60555164/173631238-0b7d83b7-3fe2-4e40-9009-70a488331c25.PNG)
+![stream-app-2](https://user-images.githubusercontent.com/60555164/173631257-73028e83-93e8-4b29-b792-e19727a05278.PNG)
+
+
 ## App Components:
 
-- Web API Server
+#### Web API Server
 [json-server](https://www.npmjs.com/package/json-server)
  
-- RTMP Server
+#### RTMP Server
 [node-media-server](https://github.com/illuspas/Node-Media-Server)
 
-- React App
-react-js
-Google Authentication
-redux, react-router-dom, react-form, react-final-form
-axios, lodash, redux-thunk
-flv.js
-Semantics UI, CSS
+#### React App
+- react-js
+- Google Authentication
+- redux, react-router-dom, react-form, react-final-form
+- axios, lodash, redux-thunk
+- flv.js
+- Semantics UI, CSS
 
 ## Built with:
 
