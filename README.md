@@ -22,6 +22,8 @@
 ![stream-app-3](https://user-images.githubusercontent.com/60555164/173631238-0b7d83b7-3fe2-4e40-9009-70a488331c25.PNG)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/60555164/173692448-4ed13694-062c-408c-ba6e-c36a598f538b.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/60555164/173693269-8212b202-9225-4094-957a-2a9e16df5416.gif)
+
 
 ## App Components:
 
