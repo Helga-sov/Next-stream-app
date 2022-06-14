@@ -22,8 +22,6 @@
 ![stream-app-3](https://user-images.githubusercontent.com/60555164/173631238-0b7d83b7-3fe2-4e40-9009-70a488331c25.PNG)
 
 ![ezgif-2-77e363a9c3](https://user-images.githubusercontent.com/60555164/173691019-046bc4ee-ca66-45cb-808a-f16573bc4658.gif)
-![React_App_-_Google_Chrome_2022-06-14_23-07-37_AdobeExpress](https://user-images.githubusercontent.com/60555164/173690214-8c8e7225-1e85-4dc3-8552-56f97f966c26.gif)
-
 
 ## App Components:
 
