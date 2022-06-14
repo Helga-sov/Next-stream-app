@@ -1,5 +1,3 @@
-# 📺 NEXT Stream App 🎞 - Video Games Streaming Platform 
-
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -10,6 +8,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+# 📺 NEXT Stream App - Video Games Streaming Platform 
 
 ![stream-app-2](https://user-images.githubusercontent.com/60555164/173631257-73028e83-93e8-4b29-b792-e19727a05278.PNG)
 
@@ -67,6 +66,6 @@ npm install
 npm start
 ```
 
+https://forthebadge.com/images/badges/built-with-love.svg
 
-
-
+https://forthebadge.com/images/badges/uses-html.svg
