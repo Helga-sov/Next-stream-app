@@ -69,3 +69,23 @@ npm install
 ```
 npm start
 ```
+
+## Setting up OBS on the computer
+This will allow you to stream your desktop and some audio from your PC to the local RTMP server and then view that inside of the browser.
+
+1. Download and install OBS
+
+2. Start OBS up
+
+- create a new scene
+- add a video source by selecting a display capture
+- select audio input capture as an audio source
+- inside of settings select stream -> stream type: custom streaming server
+- set up streaming URL - rtmp://localhost/live
+- set up stream key (the id of the stream) - 1
+- hit ok
+- click start streaming
+
+### The live stream is going to appear on the website if you click the first stream
+
+
